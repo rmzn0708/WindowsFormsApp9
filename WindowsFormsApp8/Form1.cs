@@ -21,5 +21,10 @@ namespace WindowsFormsApp8
         {
             MessageBox.Show("Merhaba");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.BackColor = Color.Blue;
+        }
     }
 }
