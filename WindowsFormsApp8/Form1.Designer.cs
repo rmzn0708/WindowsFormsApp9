@@ -35,9 +35,9 @@ namespace WindowsFormsApp8
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(162, 97);
+            this.button1.Location = new System.Drawing.Point(118, 44);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(313, 129);
+            this.button1.Size = new System.Drawing.Size(74, 129);
             this.button1.TabIndex = 0;
             this.button1.Text = "but 5";
             this.button1.UseVisualStyleBackColor = true;
@@ -45,7 +45,7 @@ namespace WindowsFormsApp8
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(324, 273);
+            this.button2.Location = new System.Drawing.Point(118, 244);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(200, 90);
             this.button2.TabIndex = 1;
