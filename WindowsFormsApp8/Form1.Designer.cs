@@ -35,7 +35,7 @@ namespace WindowsFormsApp8
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(584, 161);
+            this.button1.Location = new System.Drawing.Point(467, 161);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(74, 129);
             this.button1.TabIndex = 0;
@@ -45,7 +45,7 @@ namespace WindowsFormsApp8
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(91, 12);
+            this.button2.Location = new System.Drawing.Point(341, 200);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(200, 90);
             this.button2.TabIndex = 1;
