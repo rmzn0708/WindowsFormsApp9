@@ -1,0 +1,41 @@
+label onto
+
+reset onto
+pick abe75a7c4119e50d982b83a4aecf66d2c2f44b02 ....
+pick 6cad9e5d3ecfc5aa79e2ec0ff0a1528943543d85 Revert "...."
+pick f928dbbd075b048bbdc48a0c8fb8eee25e416e42 ĞĞĞll
+pick 68d96e574fee27ca2ad2508ab36255830f03b145 Revert "ĞĞĞll"
+pick 3e8bd6f6367248a704a9603b1238e96865c4ad52 ĞFGDFD
+pick 54655859de65650f53f0c9b64476dfd9782be101 JJ
+pick 18afb7034ce11f1496ff00066c6e66f493241d35 O
+pick fcf7786069e7f0a343e9a13a55058b0fcc61286a DNND
+pick dd0071c78be3f142a57fd63e8d110a4aacb529e6 DVDVD
+pick 61bc2634611045e0cff6f253f2297604b3a8dd8a 252SEÇ UYGY
+
+# Rebase c549c71..61bc263 onto c549c71 (12 commands)
+#
+# Commands:
+# p, pick <commit> = use commit
+# r, reword <commit> = use commit, but edit the commit message
+# e, edit <commit> = use commit, but stop for amending
+# s, squash <commit> = use commit, but meld into previous commit
+# f, fixup [-C | -c] <commit> = like "squash" but keep only the previous
+#                    commit's log message, unless -C is used, in which case
+#                    keep only this commit's message; -c is same as -C but
+#                    opens the editor
+# x, exec <command> = run command (the rest of the line) using shell
+# b, break = stop here (continue rebase later with 'git rebase --continue')
+# d, drop <commit> = remove commit
+# l, label <label> = label current HEAD with a name
+# t, reset <label> = reset HEAD to a label
+# m, merge [-C <commit> | -c <commit>] <label> [# <oneline>]
+# .       create a merge commit using the original merge commit's
+# .       message (or the oneline, if no original merge commit was
+# .       specified); use -c <commit> to reword the commit message
+#
+# These lines can be re-ordered; they are executed from top to bottom.
+#
+# If you remove a line here THAT COMMIT WILL BE LOST.
+#
+# However, if you remove everything, the rebase will be aborted.
+#
